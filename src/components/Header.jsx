@@ -1,11 +1,10 @@
 import React from "react";
-import HighlightIcon from "@material-ui/icons/Highlight";
-
+import NoteAddTwoToneIcon from "@material-ui/icons/NoteAddTwoTone";
 function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon />
+        <NoteAddTwoToneIcon />
         NOTES
       </h1>
     </header>
